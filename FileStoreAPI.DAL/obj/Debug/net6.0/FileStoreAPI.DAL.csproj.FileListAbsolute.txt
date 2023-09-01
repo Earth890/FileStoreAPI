@@ -1,0 +1,12 @@
+C:\Users\snelli\source\repos\FileStorageAPI\FileStoreAPI.DAL\bin\Debug\net6.0\FileStoreAPI.DAL.deps.json
+C:\Users\snelli\source\repos\FileStorageAPI\FileStoreAPI.DAL\bin\Debug\net6.0\FileStoreAPI.DAL.dll
+C:\Users\snelli\source\repos\FileStorageAPI\FileStoreAPI.DAL\bin\Debug\net6.0\FileStoreAPI.DAL.pdb
+C:\Users\snelli\source\repos\FileStorageAPI\FileStoreAPI.DAL\obj\Debug\net6.0\FileStoreAPI.DAL.csproj.AssemblyReference.cache
+C:\Users\snelli\source\repos\FileStorageAPI\FileStoreAPI.DAL\obj\Debug\net6.0\FileStoreAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snelli\source\repos\FileStorageAPI\FileStoreAPI.DAL\obj\Debug\net6.0\FileStoreAPI.DAL.AssemblyInfoInputs.cache
+C:\Users\snelli\source\repos\FileStorageAPI\FileStoreAPI.DAL\obj\Debug\net6.0\FileStoreAPI.DAL.AssemblyInfo.cs
+C:\Users\snelli\source\repos\FileStorageAPI\FileStoreAPI.DAL\obj\Debug\net6.0\FileStoreAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\snelli\source\repos\FileStorageAPI\FileStoreAPI.DAL\obj\Debug\net6.0\FileStoreAPI.DAL.dll
+C:\Users\snelli\source\repos\FileStorageAPI\FileStoreAPI.DAL\obj\Debug\net6.0\refint\FileStoreAPI.DAL.dll
+C:\Users\snelli\source\repos\FileStorageAPI\FileStoreAPI.DAL\obj\Debug\net6.0\FileStoreAPI.DAL.pdb
+C:\Users\snelli\source\repos\FileStorageAPI\FileStoreAPI.DAL\obj\Debug\net6.0\ref\FileStoreAPI.DAL.dll

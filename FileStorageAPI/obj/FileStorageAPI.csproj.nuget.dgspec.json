@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStorageAPI\\FileStorageAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStorageAPI.BLL\\FileStorageAPI.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStorageAPI.BLL\\FileStorageAPI.BLL.csproj",
+        "projectName": "FileStorageAPI.BLL",
+        "projectPath": "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStorageAPI.BLL\\FileStorageAPI.BLL.csproj",
+        "packagesPath": "C:\\Users\\snelli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStorageAPI.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\snelli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStoreAPI.DAL\\FileStoreAPI.DAL.csproj": {
+                "projectPath": "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStoreAPI.DAL\\FileStoreAPI.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStorageAPI\\FileStorageAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStorageAPI\\FileStorageAPI.csproj",
+        "projectName": "FileStorageAPI",
+        "projectPath": "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStorageAPI\\FileStorageAPI.csproj",
+        "packagesPath": "C:\\Users\\snelli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStorageAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\snelli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStorageAPI.BLL\\FileStorageAPI.BLL.csproj": {
+                "projectPath": "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStorageAPI.BLL\\FileStorageAPI.BLL.csproj"
+              },
+              "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStoreAPI.DAL\\FileStoreAPI.DAL.csproj": {
+                "projectPath": "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStoreAPI.DAL\\FileStoreAPI.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStoreAPI.DAL\\FileStoreAPI.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStoreAPI.DAL\\FileStoreAPI.DAL.csproj",
+        "projectName": "FileStoreAPI.DAL",
+        "projectPath": "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStoreAPI.DAL\\FileStoreAPI.DAL.csproj",
+        "packagesPath": "C:\\Users\\snelli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\snelli\\source\\repos\\FileStorageAPI\\FileStoreAPI.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\snelli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

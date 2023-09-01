@@ -1,0 +1,10 @@
+C:\Users\snelli\source\repos\FileStorageAPI\FileStorageDB\bin\Debug\FileStorageDB.dacpac
+C:\Users\snelli\source\repos\FileStorageAPI\FileStorageDB\bin\Debug\FileStorageDB.dll
+C:\Users\snelli\source\repos\FileStorageAPI\FileStorageDB\bin\Debug\FileStorageDB.pdb
+C:\Users\snelli\source\repos\FileStorageAPI\FileStorageDB\obj\Debug\FileStorageDB.sqlproj.AssemblyReference.cache
+C:\Users\snelli\source\repos\FileStorageAPI\FileStorageDB\obj\Debug\FileStorageDB.dll
+C:\Users\snelli\source\repos\FileStorageAPI\FileStorageDB\obj\Debug\FileStorageDB.pdb
+C:\Users\snelli\source\repos\FileStorageAPI\FileStorageDB\obj\Debug\Model.xml
+C:\Users\snelli\source\repos\FileStorageAPI\FileStorageDB\obj\Debug\refactor.xml
+C:\Users\snelli\source\repos\FileStorageAPI\FileStorageDB\obj\Debug\postdeploy.sql
+C:\Users\snelli\source\repos\FileStorageAPI\FileStorageDB\obj\Debug\predeploy.sql
