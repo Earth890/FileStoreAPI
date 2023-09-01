@@ -1,3 +1,6 @@
-Created Web API with all CRUD operations
+Created Web API for given test i.e Sample File Storage API with all CRUD operations
 Used Repository pattern
 Not hooked to client
+TODO :(a) Excepction handling (b) logging.
+
+Note: Not implemented all features like exceptions, logging as you just need a sample to check design skills.
